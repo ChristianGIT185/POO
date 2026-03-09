@@ -1,3 +1,6 @@
->> Seja bem vindo ao meu repositório de POO (Programação Orientada a Objetos) <<
+Disciplina: Programação Orientada a objetos
+Ministrada por: Norton Barros Glasser
 
-Este repositório foi criado para guardar projetos e atividades dessa disciplina.
+Objetivo:
+Guardar atividades e resoluções de exercícios de POO.
+
